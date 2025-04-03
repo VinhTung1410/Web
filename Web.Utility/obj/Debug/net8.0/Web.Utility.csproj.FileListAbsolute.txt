@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Web\Web.Utility\bin\Debug\net8.0\Web.Utility.deps.json
+C:\Users\ADMIN\source\repos\Web\Web.Utility\bin\Debug\net8.0\Web.Utility.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Web\Web.Utility\bin\Debug\net8.0\Web.Utility.dll
+C:\Users\ADMIN\source\repos\Web\Web.Utility\bin\Debug\net8.0\Web.Utility.pdb
+C:\Users\ADMIN\source\repos\Web\Web.Utility\obj\Debug\net8.0\Web.Utility.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Web\Web.Utility\obj\Debug\net8.0\Web.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Web\Web.Utility\obj\Debug\net8.0\Web.Utility.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Web\Web.Utility\obj\Debug\net8.0\Web.Utility.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Web\Web.Utility\obj\Debug\net8.0\Web.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Web\Web.Utility\obj\Debug\net8.0\Web.Utility.sourcelink.json
+C:\Users\ADMIN\source\repos\Web\Web.Utility\obj\Debug\net8.0\Web.Utility.dll
+C:\Users\ADMIN\source\repos\Web\Web.Utility\obj\Debug\net8.0\refint\Web.Utility.dll
+C:\Users\ADMIN\source\repos\Web\Web.Utility\obj\Debug\net8.0\Web.Utility.pdb
+C:\Users\ADMIN\source\repos\Web\Web.Utility\obj\Debug\net8.0\Web.Utility.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Web\Web.Utility\obj\Debug\net8.0\ref\Web.Utility.dll
